@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">registroyautenticacion</string>
+
+
+    <string name="stringbtniniciarsesion">Login</string>
+    <string name="stringbtnregistarse">Sign in</string>
+
+
+    <string name="btnstringiniciarsecion">Iniciar Sesion</string>
+    <string name="btnstringinregistarse">Registrarse.</string>
+
+
+</resources>

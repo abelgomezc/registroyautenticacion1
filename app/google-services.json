@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345399719389",
+    "project_id": "registroyautenticacion",
+    "storage_bucket": "registroyautenticacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345399719389:android:f48f91635f9b38877df234",
+        "android_client_info": {
+          "package_name": "com.abelgomez.registroyautenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345399719389-42l86l2l31bn35gvsp16varo2t63bm4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmdZxgS4ez90P6ofxTIjExN35P0tNCbZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345399719389-42l86l2l31bn35gvsp16varo2t63bm4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
